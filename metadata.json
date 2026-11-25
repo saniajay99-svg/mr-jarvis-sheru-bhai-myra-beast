@@ -1,0 +1,6 @@
+{
+  "name": "Mr Jarvis Beast - Aijay Boss Elite Voice Assistant",
+  "description": "The elite bilingual (Hindi/English) personal AI voice assistant and private secretary dedicated exclusively to Aijay Boss with real-time academic solving, vision intelligence, and YouTube-style voice.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

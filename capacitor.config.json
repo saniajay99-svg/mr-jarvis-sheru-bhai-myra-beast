@@ -1,0 +1,15 @@
+{
+  "appId": "com.aijayboss.mrjarvisbeast",
+  "appName": "Mr Jarvis Beast",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": true
+  }
+}

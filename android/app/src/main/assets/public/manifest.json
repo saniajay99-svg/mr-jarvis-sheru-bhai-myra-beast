@@ -1,0 +1,56 @@
+{
+  "id": "jarvis-beast-ai-assistant.ai.studio",
+  "name": "Mr Jarvis Myra Beast Voice Assistant",
+  "short_name": "Jarvis Myra",
+  "description": "The elite dual-engine (Jarvis & Myra) personal AI assistant created exclusively for Master Ajay Boss in Rishikesh on vivo V17 with 20 core cyber superpowers.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07090e",
+  "theme_color": "#07090e",
+  "categories": ["utilities", "productivity", "lifestyle"],
+  "icons": [
+    {
+      "src": "./logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./logo.jpg",
+      "sizes": "1024x1024",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Live Vision",
+      "short_name": "Vision",
+      "description": "Real-Time Multimodal Voice & Camera Vision",
+      "url": "./?mode=vision",
+      "icons": [{ "src": "./logo.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Meesho Hub",
+      "short_name": "Meesho",
+      "description": "Royal Dark-Mode Meesho Marketplace Grid (12 VIP Tools)",
+      "url": "./?mode=meesho",
+      "icons": [{ "src": "./logo.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Photo to Video",
+      "short_name": "Video",
+      "description": "Photo-to-Video AI Engine",
+      "url": "./?mode=photovideo",
+      "icons": [{ "src": "./logo.png", "sizes": "192x192" }]
+    }
+  ]
+}

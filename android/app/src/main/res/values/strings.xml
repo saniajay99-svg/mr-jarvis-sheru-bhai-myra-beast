@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Mr Jarvis Myra Beast</string>
+    <string name="title_activity_main">Mr Jarvis Myra Beast</string>
+    <string name="package_name">com.aijayboss.mrjarvisbeast</string>
+    <string name="custom_url_scheme">com.aijayboss.mrjarvisbeast</string>
+</resources>
